@@ -1,0 +1,18 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-image: url("https://thenypost.files.wordpress.com/2015/02/gettyimages_168966911.jpg?quality=80&strip=all&w=978&h=652");
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+div {
+  margin-top: 30px;
+  color: white;
+}
+
